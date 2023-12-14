@@ -1,0 +1,4 @@
+rental - https://jira.assecosol.eu/browse/DEVCLOUD-9728
+
+MLE Mobile - https://jira.assecosol.eu/browse/DEVCLOUD-9942
+
